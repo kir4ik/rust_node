@@ -1,0 +1,18 @@
+{
+  "name": "rust_node",
+  "description": "embed rust to node with compare async and threads with do not optimized algoritms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kir4ik <vlados.linkoln@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kir4ik/rust_node.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ffi": "^2.3.0"
+  }
+}
